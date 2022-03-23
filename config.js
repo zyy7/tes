@@ -1,17 +1,17 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.wm = `〲Elainaエライナ` //UBAH JADI NAMAMU
-global.botwm = `〲Elainaエライナ` //UBAH JADI NAMAMU
+global.wm = `〲ZyY7 エライナ` //UBAH JADI NAMAMU
+global.botwm = `〲ZyY7 ║ 益 ` //UBAH JADI NAMAMU
 
-global.name = 'ElainaBotエライナ '// nama bot
+global.name = 'JO-BOTZエライナ '// nama bot
 global.dev = `Adryan〲〲〲〲〲〲〲〲〲〲〲〲〲<XyzXz`// developer
 
 
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP']
 //kalo mau ubah nama owner nya ubah di ../plugins/creator.js
-global.owner = ['6285756507257'] // Letakan nomor kamu disini
+global.owner = ['6285924761802'] // Letakan nomor kamu disini
 global.mods = ['0'] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -63,7 +63,7 @@ global.ig = `https://instagram.com/the.sad.boy01` //UBAH JADI LINK IG LU
 //donasi
 global.donate = `
 ╭─「  Donasi • Pulsa 」
-├❒ Indosat Ooredoo [+6285756507257]
+├❒ Telkomsel [+6285943140485]
 ╰────
 
 ╭─「  Donasi • Non Pulsa 」
@@ -71,12 +71,12 @@ global.donate = `
 ╰────
 
 ╭─「  Hubungi 」
-├❒ Ingin donasi?Chat 〲 Wa.me/6285756507257 <
+├❒ Ingin donasi?Chat 〲 Wa.me/6285924761802<
 ╰────` //UBAH JADI NOMER MU
 
 // Sticker WM
-global.packname = '〲<ElainaXyz>〲'
-global.author = 'AzzU>'
+global.packname = '〲<JO-BOTZ☬>〲'
+global.author = 'ASZU>'
 
 global.wait = '_*Wait, Im Processing Your Request!...*_'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=chrominium-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontname=nosifer&text='
