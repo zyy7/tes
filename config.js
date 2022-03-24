@@ -4,8 +4,8 @@ let chalk = require('chalk')
 global.wm = `〲ZyY7 エライナ` //UBAH JADI NAMAMU
 global.botwm = `〲ZyY7 ║ 益 ` //UBAH JADI NAMAMU
 
-global.name = 'JO-BOTZエライナ '// nama bot
-global.dev = `Adryan〲〲〲〲〲〲〲〲〲〲〲〲〲<XyzXz`// developer
+global.name = 'JO-BOTZV1エライナ '// nama bot
+global.dev = `JO-BOTZV1〲〲〲〲〲〲〲〲〲〲〲〲〲<XyzXz`// developer
 
 
 global.DeveloperMode = 'false' //true Or false
@@ -58,7 +58,7 @@ global.APIKeys = { // APIKey nya disini
 }
 //sosmed owner
 global.yt = 'https://youtube.com/channel/UCVv3wC5Q7_juw-d9HepjpOQ' //UBAH JADI LINK YT LU
-global.ig = `https://instagram.com/the.sad.boy01` //UBAH JADI LINK IG LU
+global.ig = `https://instagram.com/JoJo_Wibu` //UBAH JADI LINK IG LU
 
 //donasi
 global.donate = `
