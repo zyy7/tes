@@ -1,17 +1,17 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.wm = `〲DevicBT` //UBAH JADI NAMAMU
-global.botwm = `〲DevicBT` //UBAH JADI NAMAMU
+global.wm = `〲ZyyY7` //UBAH JADI NAMAMU
+global.botwm = `〲ZyyY7` //UBAH JADI NAMAMU
 
-global.name = 'DevicBT'// nama bot
-global.dev = `Adryan〲〲〲〲〲〲〲〲〲〲〲〲〲<XyzXz`// developer
+global.name = 'JO-BOTZ'// nama bot
+global.dev = `ZyyY7〲〲〲〲〲〲〲〲〲〲〲〲〲<XyzXz`// developer
 
 
-global.DeveloperMode = 'false' //true Or false
+global.DeveloperMode = 'true' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP']
 //kalo mau ubah nama owner nya ubah di ../plugins/creator.js
-global.owner = ['6289625556161','62896255561617'] // Letakan nomor kamu disini
+global.owner = ['6285924761802','6285924761802'] // Letakan nomor kamu disini
 global.mods = ['0'] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -58,12 +58,12 @@ global.APIKeys = { // APIKey nya disini
 }
 //sosmed owner
 global.yt = 'https://youtube.com/channel/UCVv3wC5Q7_juw-d9HepjpOQ' //UBAH JADI LINK YT LU
-global.ig = `https://instagram.com/the.sad.boy01` //UBAH JADI LINK IG LU
+global.ig = `https://instagram.com/JoJo_Wibu` //UBAH JADI LINK IG LU
 
 //donasi
 global.donate = `
 ╭─「  Donasi • Pulsa 」
-├❒ tre [+6289625556161]
+├❒ tre [+6285943140485]
 ╰────
 
 ╭─「  Donasi • Non Pulsa 」
@@ -71,12 +71,12 @@ global.donate = `
 ╰────
 
 ╭─「  Hubungi 」
-├❒ Ingin donasi? Wa.me/6289625556161
+├❒ Ingin donasi? Wa.me/6285924761802
 ╰────` //UBAH JADI NOMER MU
 
 // Sticker WM
-global.packname = 'ZeusBotz'
-global.author = '◈ ZeusBotzV3'
+global.packname = 'JO-BOTZV1'
+global.author = '◈ JO-BOTZV1'
 
 global.wait = '_*tunggu sedang di proses...*_'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=chrominium-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontname=nosifer&text='
